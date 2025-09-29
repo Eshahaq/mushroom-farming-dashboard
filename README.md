@@ -37,11 +37,11 @@ This dataset is inspired by a real mushroom farming business model with 5 cultiv
 - Total Revenue = Revenue of Baglog+Mushroom+Rent.
 4. Data Visualization (Tableau Dashboard)
 - KPIs: Baglog produced, total harvest (Kg), total revenue (Rp).
-- Bar Chart: Baglog Sales Distribution.
-- Bar Chart: Revenue Contribution by source.
-- Scatter Plot: Harvest Efficiency (Baglogs vs. Kg).
-- Bar Chart: Kumbung Performance by Harvest.
-- Bubble Chart: Current Debt Repayment %.
+- Bar Chart: Baglog Sales Distribution. shows the comparison between baglogs sold internally (to kumbung growers) and externally (to outside buyers).
+- Bar Chart: Revenue Contribution by source. breaks down the company’s revenue streams into three main sources: kumbung rental, baglog sales, and mushroom sales.
+- Scatter Plot: Harvest Efficiency (Baglogs vs. Kg). illustrates the relationship between the number of baglogs used and the total mushroom harvest (kg), highlighting cultivation effectiveness.
+- Bar Chart: Kumbung Performance by Harvest. compares the total mushroom yield across different kumbungs (cultivation rooms) to evaluate each grower’s performance.
+- Bubble Chart: Current Debt Repayment %. visualizes the progress of debt repayment for each kumbung, based on the 50% revenue deduction system applied at every harvest.
 
 **📊 Dashboard Preview**
 ![Dashboard Screenshot](Jamur_Mr_Pj_Farming_Dashboard.jpg)
@@ -73,3 +73,11 @@ This dataset is inspired by a real mushroom farming business model with 5 cultiv
 1. Expand dataset with real case records for deeper analysis.
 2. Add time-series analysis for trend forecasting.
 3. Build interactive dashboard with filters (month, kumbung, revenue type).
+
+**Terminology**
+-Baglog: Mushroom planting medium, usually made of sawdust in plastic with mushroom seeds inside.
+-Kumbung: Mushroom house or cultivation room (K1-K5).
+-Internal buyer: Cultivation managers who buy baglog from the company.
+-External buyer: Third parties who purchase baglog outside the internal system.
+-Reseller: Distributors who buy mushrooms in bulk at a lower price to resell.
+
