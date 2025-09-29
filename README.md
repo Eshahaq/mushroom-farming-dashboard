@@ -7,7 +7,7 @@ This project presents a business performance dashboard for Jamur Mr. Pj (mushroo
 - Evaluate kumbung (mushroom house) performance.
 - Assess debt repayment progress.
 
-**🏢Business Context **
+🏢**Business Context**
 This dataset is inspired by a real mushroom farming business model with 5 cultivation houses ("kumbung"), each managed by a different farmer.  
 1. Financing model
   The company provides initial capital. Farmers repay debt through a revenue-sharing scheme: 50% of each harvest income is deducted until debt is cleared, then farmers receive full payment.  
