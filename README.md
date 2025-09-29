@@ -26,7 +26,7 @@ This project presents a business performance dashboard for Jamur Mr. Pj (mushroo
 - Bubble Chart: Current Debt Repayment %.
 
 #📊 Dashboard Preview
-![Dashboard Screenshot](Jamur Mr. Pj Farming Dashboard. pnj)
+![Dashboard Screenshot](Jamur Mr. Pj Farming Dashboard.jpg)
 
 #💡 Insights
 1. The largest revenue source comes from baglog sales (Rp37,000,000/74%), followed by mushroom sales (Rp11,080,020/22%), and rent (Rp1,800,000/4%).
