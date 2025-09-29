@@ -21,9 +21,9 @@ This dataset is inspired by a real mushroom farming business model with 5 cultiv
   - Farmers must sell mushrooms to the company at Rp23,000/kg.  
   - Company resells to resellers at Rp25,000/kg and to end customers at Rp28,000/kg.  
 5. Revenue sources:  
-  1. Rent income (kumbung rental).  
-  2. Baglog sales margin.  
-  3. Mushroom resale margin.  
+  - Rent income (kumbung rental).  
+  - Baglog sales margin.  
+  - Mushroom resale margin.  
 
 **🔨 Data Analysis Workflow**
 1. Data Preparation
