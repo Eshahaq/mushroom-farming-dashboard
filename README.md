@@ -48,7 +48,7 @@ This project presents a business performance dashboard for Jamur Mr. Pj (mushroo
 
 #🚀 How to Use
 1. Download the dataset
-2. Open Tableau or your preferred BI tool.
+2. Open Tableau. Tableau Workbook https://public.tableau.com/views/Book3_17591393433420/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 3. Reproduce calculated fields & visualizations following the workflow above.
 
 #📌 Next Steps
