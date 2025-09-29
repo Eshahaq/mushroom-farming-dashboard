@@ -75,9 +75,9 @@ This dataset is inspired by a real mushroom farming business model with 5 cultiv
 3. Build interactive dashboard with filters (month, kumbung, revenue type).
 
 **Terminology**
--Baglog: Mushroom planting medium, usually made of sawdust in plastic with mushroom seeds inside.
--Kumbung: Mushroom house or cultivation room (K1-K5).
--Internal buyer: Cultivation managers who buy baglog from the company.
--External buyer: Third parties who purchase baglog outside the internal system.
--Reseller: Distributors who buy mushrooms in bulk at a lower price to resell.
+- Baglog: Mushroom planting medium, usually made of sawdust in plastic with mushroom seeds inside.
+- Kumbung: Mushroom house or cultivation room (K1-K5).
+- Internal buyer: Cultivation managers who buy baglog from the company.
+- External buyer: Third parties who purchase baglog outside the internal system.
+- Reseller: Distributors who buy mushrooms in bulk at a lower price to resell.
 
